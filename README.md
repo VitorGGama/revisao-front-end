@@ -3,8 +3,8 @@
 
  # HTML e CSS
 
-# Html e CSS são as duas linguagens mais usadas 
-# pelos desenvolvedores de front- end.
+Html e CSS são as duas linguagens mais usadas pelos desenvolvedores de front- end.
+
 
 ## Html é uma linguagem de marcação 
 
